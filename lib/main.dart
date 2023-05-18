@@ -97,7 +97,7 @@ class _ScoreHomeState extends State<ScoreHome> {
                 height: 50,
                 width: 80,
                 decoration: BoxDecoration(
-                    color: Colors.black26,
+                    color: Colors.green,
                     borderRadius: BorderRadius.circular(10)),
                 child: Center(
                     child: Text('Increase',
@@ -110,7 +110,7 @@ class _ScoreHomeState extends State<ScoreHome> {
                 height: 50,
                 width: 80,
                 decoration: BoxDecoration(
-                    color: Colors.black26,
+                    color: Colors.green,
                     borderRadius: BorderRadius.circular(10)),
                 child: Center(
                     child: Text('Decreaced',
